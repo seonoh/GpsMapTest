@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cate">
+        <!--<item>전체</item>-->
+        <item>스타벅스</item>
+        <item>커피빈</item>
+
+    </string-array>
+
+    <string-array name="distance">
+        <item>1km</item>
+        <item>2km</item>
+        <item>3km</item>
+        <item>4km</item>
+        <item>5km</item>
+        <item>10km</item>
+        <item>20km</item>
+        <item>100km</item>
+    </string-array>
+</resources>
